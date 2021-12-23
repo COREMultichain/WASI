@@ -23,4 +23,4 @@ This repository is for the WebAssembly System Interface (WASI) Subgroup of the
 
 The [issue tracker] is the place to ask questions, make suggestions, and start discussions.
 
-[issue tracker]: https://github.com/WebAssembly/WASI/issues
+[issue tracker]: https://github.com/WebAssembly/WASI/issues 
